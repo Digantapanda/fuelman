@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Me</string>
+    <string name="fuelman">Fuelman</string>
+    <string name="emailid">EmailID</string>
+    <string name="password">Password</string>
+    <string name="title_activity_rider">Map</string>
+</resources>
